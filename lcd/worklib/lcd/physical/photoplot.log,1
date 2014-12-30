@@ -1,0 +1,42 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    ARTWORK LOG                                                      )
+(                                                                     )
+(    Drawing          : lcd4.brd                                      )
+(    Software Version : 16.3S021                                      )
+(    Date/Time        : Mon Oct 22 12:41:52 2012                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+
+ ******************************************
+ WARNING: DRC OUT OF DATE on this layout.
+ ******************************************
+
+ ---- Photoplot outline rectangle not found ... using drawing extents
+
+
+
+Results from parameter file ...
+    DEVICE-TYPE           GERBER6X00
+    OUTPUT-UNITS          INCHES
+    FILM-SIZE             24000 16000
+    FORMAT                5.3
+    ABORT-ON-ERROR        NO
+    SCALE                 1
+    G-CODES               NO
+    OPTIMIZE              YES
+    STATIONS-PER-WHEEL    999
+    COORDINATES           ABSOLUTE
+    SUPPRESS-LEAD-ZEROES  YES
+    SUPPRESS-TRAIL-ZEROES NO
+    SUPPRESS-EQUAL        YES
+
+ WARNING: database resolution exceeds the resolution of the 
+      output coordinates (see FORMAT in parameter file).
+      Some roundoff of coordinates may occur unless the number
+      of decimal places in the output file is increased.
+
+
+ ARTWORK Error reading apertures.

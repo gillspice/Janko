@@ -1,0 +1,79 @@
+Cadence Design Systems, Inc. netrev 15.2 Mon Nov 01 12:57:46 2010
+(C) Copyright 2002 Cadence Design Systems, Inc.
+
+------ Directives ------
+
+RIPUP_ETCH FALSE;
+RIPUP_SYMBOLS ALWAYS;
+MISSING SYMBOL AS ERROR FALSE;
+SCHEMATIC_DIRECTORY 'D:\MISC\JANKO\worklib\janko\packaged';
+BOARD_DIRECTORY '';
+OLD_BOARD_NAME 'D:\MISC\JANKO\worklib\janko\physical\jankomid20.brd';
+NEW_BOARD_NAME 'jankomid21.brd';
+
+CmdLine: netrev -proj D:\MISC\JANKO\janko.cpm -5 -y 1 D:\MISC\JANKO\worklib\janko\physical\jankomid20.brd D:\MISC\JANKO\worklib\janko\physical\jankomid21.brd -$
+
+------ Preparing to read pst files ------
+
+Starting to read D:/MISC/JANKO/worklib/janko/packaged/pstchip.dat 
+   Finished reading D:/MISC/JANKO/worklib/janko/packaged/pstchip.dat (00:00:00.01)
+Starting to read D:/MISC/JANKO/worklib/janko/packaged/pstxprt.dat 
+   Finished reading D:/MISC/JANKO/worklib/janko/packaged/pstxprt.dat (00:00:00.03)
+Starting to read D:/MISC/JANKO/worklib/janko/packaged/pstxnet.dat 
+   Finished reading D:/MISC/JANKO/worklib/janko/packaged/pstxnet.dat (00:00:00.01)
+
+------ Oversights/Warnings/Errors ------
+
+
+------ Library Paths ------
+MODULEPATH =  . 
+
+PSMPATH =  . 
+           symbols 
+           .. 
+           ../symbols 
+           \\BLDG35USERS1\GEAPPS/Technology/NPIElect/GE_Library/PCB_Lib/symbols 
+           \\BLDG35USERS1\GEAPPS/Technology/NPIElect/GE_Library/PCB_Lib/Templates/PCB_Outlines 
+
+PADPATH =  . 
+           padstacks 
+           .. 
+           ../padstacks 
+           \\BLDG35USERS1\GEAPPS/Technology/NPIElect/GE_Library/PCB_Lib/pad_stacks 
+
+
+------ Summary Statistics ------
+
+
+netrev run on Nov 1 12:57:46 2010
+   DESIGN NAME : 'JANKO'
+   PACKAGING ON 01-Nov-2010 AT 12:57:40
+
+   COMPILE 'logic'
+   CHECK_PIN_NAMES OFF
+   CROSS_REFERENCE OFF
+   DIRECTORIES  <none>
+   FEEDBACK OFF
+   INCREMENTAL OFF
+   INTERFACE_TYPE PHYSICAL
+   LIBRARIES  'janko_lib' 'standard' 'u_ic' 'r_resistor' 'j_connector2fjumper'
+              'c_capacitor'
+   MASTER_LIBRARIES  <none>
+   MAX_ERRORS 500
+   MERGE_MINIMUM 5
+   NET_NAME_CHARS '#%&()*+-./:=>?@[]^_`|'
+   NET_NAME_LENGTH 24
+   OVERSIGHTS ON
+   REPLACE_CHECK OFF
+   SINGLE_NODE_NETS ON
+   SPLIT_MINIMUM 0
+   SUPPRESS   20
+   WARNINGS ON
+
+ No error detected
+ No oversight detected
+ No warning detected
+
+cpu time      0:02:55
+elapsed time  0:00:01
+

@@ -1,0 +1,9 @@
+FILE_TYPE=PINLIST;
+{ Packager-XL run on 30-Sep-2012 AT 21:23:31 }
+TIME=' COMPILATION ON 30-Sep-2012 AT 21:23:31';
+primitive 'J_3_ST_AMP_640445-10017172,640B';body 'J_3_ST';
+    '1':'(1)';BIDI;
+    '2':'(2)';BIDI;
+    '3':'(3)';BIDI;
+end_primitive;
+END.

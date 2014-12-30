@@ -1,0 +1,2 @@
+DEFINE buttons_lib worklib
+INCLUDE $CDS_SITE/cdssetup/cds.lib

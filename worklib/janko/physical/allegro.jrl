@@ -1,0 +1,46 @@
+\t (00:00:04) allegro 16.3 S021 (v16-3-85BG) i86
+\t (00:00:04) 
+
+\t (00:00:06) Opening existing drawing...
+\f (00:00:06) This database has been created using an earlier release of software and will be updated for compatibility with the current version.  Once saved, the database will only be accessible using the current or later versions of the software.  OK to proceed?
+\i (00:00:09) fillin yes 
+\d (00:00:10) Database opened: D:/Misc/Janko/worklib/janko/physical/axis64_26.brd
+\t (00:00:10) Grids are drawn 40.960, 40.960 apart for enhanced viewability.
+\i (00:00:10) trapsize 22066
+\i (00:00:10) trapsize 21357
+\i (00:00:10) trapsize 21060
+\i (00:00:10) trapsize 18085
+\i (00:00:10) trapsize 30258
+\i (00:00:11) generaledit 
+\i (00:00:11) zoom out 1 
+\i (00:00:11) setwindow pcb
+\i (00:00:11) zoom out 2096.096 10481.731
+\t (00:00:11) Grids are drawn 163.840, 163.840 apart for enhanced viewability.
+\i (00:00:11) trapsize 60516
+\i (00:00:11) zoom out 1 
+\i (00:00:11) setwindow pcb
+\i (00:00:11) zoom out 2120.303 10469.628
+\i (00:00:11) trapsize 121032
+\i (00:00:12) zoom out 1 
+\i (00:00:12) setwindow pcb
+\i (00:00:12) zoom out 4079.006 10469.629
+\t (00:00:12) Grids are drawn 655.360, 655.360 apart for enhanced viewability.
+\i (00:00:12) trapsize 219124
+\i (00:00:12) zoom out 1 
+\i (00:00:12) setwindow pcb
+\i (00:00:12) zoom out 13912.351 5605.578
+\i (00:00:12) trapsize 219124
+\i (00:00:12) zoom out 1 
+\i (00:00:12) setwindow pcb
+\i (00:00:12) zoom out 13912.351 5605.578
+\i (00:00:12) trapsize 219124
+\i (00:00:12) zoom in 1 
+\i (00:00:12) setwindow pcb
+\i (00:00:12) zoom in 13912.351 5605.578
+\t (00:00:12) Grids are drawn 163.840, 163.840 apart for enhanced viewability.
+\i (00:00:12) trapsize 109562
+\i (00:00:12) zoom in 1 
+\i (00:00:12) setwindow pcb
+\i (00:00:12) zoom in 11209.163 5605.578
+\i (00:00:12) trapsize 54781
+\i (00:00:14) exit 

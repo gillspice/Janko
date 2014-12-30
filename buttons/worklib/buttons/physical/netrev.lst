@@ -1,0 +1,108 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    Allegro Netrev Import Logic                                      )
+(                                                                     )
+(    Drawing          : buttons.brd                                   )
+(    Software Version : 16.3S021                                      )
+(    Date/Time        : Sun Sep 30 21:27:17 2012                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+------ Directives ------
+
+RIPUP_ETCH FALSE;
+RIPUP_SYMBOLS ALWAYS;
+Missing symbol has error FALSE;
+SCHEMATIC_DIRECTORY 'D:\Misc\Janko\buttons\worklib\buttons\packaged';
+BOARD_DIRECTORY '';
+OLD_BOARD_NAME 'D:/Misc/Janko/buttons/worklib/buttons/physical/buttons.brd';
+NEW_BOARD_NAME 'buttons2.brd';
+
+CmdLine: netrev -proj D:\Misc\Janko\buttons\\buttons.cpm -5 -y 1 -u D:\Misc\Janko\buttons\worklib\buttons\physical\buttons.brd D:\Misc\Janko\buttons\worklib\buttons\physical\buttons2.brd -$
+
+------ Preparing to read pst files ------
+
+Starting to read D:/Misc/Janko/buttons/worklib/buttons/packaged/pstchip.dat 
+   Finished reading D:/Misc/Janko/buttons/worklib/buttons/packaged/pstchip.dat (00:00:01.76)
+Starting to read D:/Misc/Janko/buttons/worklib/buttons/packaged/pstxprt.dat 
+   Finished reading D:/Misc/Janko/buttons/worklib/buttons/packaged/pstxprt.dat (00:00:00.00)
+Starting to read D:/Misc/Janko/buttons/worklib/buttons/packaged/pstxnet.dat 
+   Finished reading D:/Misc/Janko/buttons/worklib/buttons/packaged/pstxnet.dat (00:00:00.00)
+
+------ Oversights/Warnings/Errors ------
+
+
+
+Note: DESCRIPTION property definition created
+Note: MATERIALS_OF_CONCERN property definition created
+Note: MFR_1 property definition created
+Note: MFR_1_PN property definition created
+Note: MFR_1_SPEC property definition created
+Note: STATUS property definition created
+Note: PHYS_PAGE property definition created
+
+------ Library Paths ------
+MODULEPATH =  . 
+           //applpark/technology/Electronics/InProcess/tools/npielect/GE_Library_16/AutoSetupFiles/SITE/pcb/modules 
+
+PSMPATH =  . 
+           symbols 
+           .. 
+           ../symbols 
+           //applpark/technology/Electronics/InProcess/tools/npielect/GE_Library_16/AutoSetupFiles/SITE/pcb/symbols 
+           C:/Cadence/SPB_16.3/share/pcb/pcb_lib/symbols 
+           C:/Cadence/SPB_16.3/share/pcb/allegrolib/symbols 
+           \\applpark\technology\Electronics\InProcess\tools\npielect\GE_Library_16\AutoSetupFiles\SITE/../../PCB_Lib/symbols 
+           \\applpark\technology\Electronics\InProcess\tools\npielect\GE_Library_16\AutoSetupFiles\SITE/../../PCB_Lib/Templates/PCB_Outlines 
+           D:\Misc\Project\janko\cadence\Janko\worklib\janko\physical\ 
+           D:\Misc\MB64e\ 
+
+PADPATH =  . 
+           symbols 
+           .. 
+           ../symbols 
+           //applpark/technology/Electronics/InProcess/tools/npielect/GE_Library_16/AutoSetupFiles/SITE/pcb/padstacks 
+           C:/Cadence/SPB_16.3/share/pcb/pcb_lib/symbols 
+           C:/Cadence/SPB_16.3/share/pcb/allegrolib/symbols 
+           \\applpark\technology\Electronics\InProcess\tools\npielect\GE_Library_16\AutoSetupFiles\SITE/../../PCB_Lib/pad_stacks 
+           D:\Misc\Project\janko\cadence\Janko 
+
+
+------ Summary Statistics ------
+
+
+netrev run on Sep 30 21:27:15 2012
+   DESIGN NAME : 'BUTTONS'
+   PACKAGING ON 30-Sep-2012 AT 21:23:31
+
+   COMPILE 'logic'
+   CHECK_PIN_NAMES OFF
+   CROSS_REFERENCE OFF
+   DIRECTORIES  <none>
+   FEEDBACK OFF
+   INCREMENTAL OFF
+   INTERFACE_TYPE PHYSICAL
+   LIBRARIES  'buttons_lib' 'standard' 'a_annunciator' 'c_capacitor' 'd_diode'
+              'j_connector2fjumper' 'k_relay' 'l_inductor' 'm_miscellaneous'
+              'q_transistor' 'r_resistor' 's_switch' 't_transformer' 'u_ic'
+              'v_trasient_suppressor' 'x_oscillator' 'y_sensor' 'z_display'
+   MASTER_LIBRARIES  <none>
+   MAX_ERRORS 500
+   MERGE_MINIMUM 5
+   NET_NAME_CHARS '#%&()*+-./:=>?@[]^_`|'
+   NET_NAME_LENGTH 24
+   OVERSIGHTS ON
+   REPLACE_CHECK OFF
+   SINGLE_NODE_NETS ON
+   SPLIT_MINIMUM 0
+   SUPPRESS   20
+   WARNINGS ON
+
+ No error detected
+ No oversight detected
+ No warning detected
+
+cpu time      1:28:43
+elapsed time  0:00:12
+

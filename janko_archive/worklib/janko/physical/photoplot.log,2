@@ -1,0 +1,76 @@
+(------------------------------------------------------------)
+(                                                            )
+(        ARTWORK LOG                                         )
+(                                                            )
+(        Drawing          : jankomid30nohexes.brd            )
+(        Software Version : 15.2s023                         )
+(        Date/Time        : Wed Nov 03 10:06:24 2010         )
+(                                                            )
+(------------------------------------------------------------)
+
+
+ ---- Photoplot outline rectangle not found ... using drawing extents
+
+
+Wed Nov 03 10:06:24 2010				Page     1
+
+Photoplot log file
+Results from parameter file ...
+
+DEVICE-TYPE           GERBER_RS274X
+OUTPUT-UNITS          INCHES
+FILM-SIZE             24000 16000
+FORMAT                5.3
+ABORT-ON-ERROR        NO
+SCALE                 1
+SUPPRESS-LEAD-ZEROES  YES
+SUPPRESS-TRAIL-ZEROES NO
+SUPPRESS-EQUAL        YES
+UNDEF-APT-CONT        NO
+
+ WARNING: for raster artwork formats, artwork accuracy must be
+  at least one place greater than the database accuracy, up
+  to the maximum accuracy allowed by the selected output format.
+
+  Increase the accuracy by increasing the "Decimal Places" in
+  the FORMAT section of the artwork parameters and then rerun
+  artwork.
+
+  The current output is rounding down the data.  Failure to change
+  the format may result in inaccurate arc coordinates in the output
+  files and possible shape/void plotting failures.
+
+
+================================================================
+     PROCESSING FILM < NC_DRILL.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                5.000
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0.000
+  Offset y:                           0.000
+  Plot negative                       NO
+  Suppress unconnected internal pads  NO
+
+	WARNING: 0 width line found at (0.000 0.000)
+	WARNING: ... using undefined line width of 5.000
+
+
+
+  APERTURES USED:
+  ---------------------------------------------------------
+  TYPE       SIZE/NAME                   ROT   MIRROR MODE 
+  ---------------------------------------------------------
+  CIRCLE     0.00500                                  DARK 
+
+     NC_DRILL created with warnings
+
+
+------------------------------------------------------
+ SUMMARY:
+            NC_DRILL created with warnings
+
+ ARTWORK finished

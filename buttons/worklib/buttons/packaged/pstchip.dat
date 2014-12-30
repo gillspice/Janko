@@ -1,0 +1,45 @@
+FILE_TYPE = LIBRARY_PARTS;
+{ Packager-XL run on 30-Sep-2012 AT 21:23:31 }
+primitive 'J_3_ST_AMP_640445-10017172,640B';
+  pin
+    '1':
+      PIN_NUMBER='(1)';
+      BIDIRECTIONAL='TRUE';
+      NO_LOAD_CHECK='BOTH';
+      INPUT_LOAD='(-0.01,0.01)';
+      OUTPUT_LOAD='(1.0,-1.0)';
+      NO_IO_CHECK='BOTH';
+      ALLOW_CONNECT='TRUE';
+    '2':
+      PIN_NUMBER='(2)';
+      BIDIRECTIONAL='TRUE';
+      INPUT_LOAD='(-0.01,0.01)';
+      OUTPUT_LOAD='(1.0,-1.0)';
+    '3':
+      PIN_NUMBER='(3)';
+      BIDIRECTIONAL='TRUE';
+      INPUT_LOAD='(-0.01,0.01)';
+      OUTPUT_LOAD='(1.0,-1.0)';
+  end_pin;
+  body
+      PART_NAME='J_3_ST_AMP_640445';
+      BODY_NAME='J_3_ST';
+      JEDEC_TYPE='CONN-AMP-3PIN-156MIL-ST';
+      PHYS_DES_PREFIX='J';
+      CLASS='IC';
+      MFR_1='AMP';
+      MFR_1_PN='640445-3';
+      MFR_1_SPEC='HTTP://a35as03applge.appl.ge.com/Part_Data_Sheets/AMP/640445.p~
+df';
+      DESCRIPTION='CONN,HDR,3POS,0.156",VERT';
+      MATERIALS_OF_CONCERN='Yes';
+      STATUS='VALIDATED';
+      PART_NUMBER='10017172';
+      VALUE='640445-3';
+      PARENT_PART_TYPE='J_3_ST_AMP_640445';
+      SCH_MODIFIED_PART='TRUE';
+      PARENT_PPT='J_3_ST_AMP_640445';
+      PARENT_PPT_PART='J_3_ST_AMP_640445-10017172,640445-3,CONN-AMP-3PIN-156MIL-ST';
+  end_body;
+end_primitive;
+END.

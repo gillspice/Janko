@@ -1,0 +1,9 @@
+;LEADER: 12 
+;HEADER: 
+;CODE  : ASCII 
+;FILE  : jankoalt-1-2-np.drl for board janko_alt.brd ... layers TOP and BOTTOM
+;   Holesize 1. = 125.000000 Tolerance = +0.000000/-0.000000 NON_PLATED MILS
+%
+G90
+X00450Y00450
+M30

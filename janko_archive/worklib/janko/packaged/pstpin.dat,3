@@ -1,0 +1,37 @@
+FILE_TYPE=PINLIST;
+{ Packager-XL run on 01-Nov-2010 AT 12:52:36 }
+TIME=' COMPILATION ON 01-Nov-2010 AT 12:52:36';
+primitive 'C_SMT_X7R_0805-0.1UF,X7R,50V,1B';body 'C_SMT';
+    '1':'(1)';
+    '2':'(2)';
+end_primitive;
+primitive 'J_5_ST_AMP_641215-641215-5,CONB';body 'J_5_ST';
+    '1':'(1)';
+    '2':'(2)';
+    '3':'(3)';
+    '4':'(4)';
+    '5':'(5)';
+end_primitive;
+primitive 'R_SMT_0805-10K,TF-SMT0805,1/8WB';body 'R_SMT';
+    '1':'(1)';
+    '2':'(2)';
+end_primitive;
+primitive 'U_CD4094_DIP16-CD4094,DIP16-30B';body 'U_CD4094';
+    '1':'(1)';
+    '2':'(2)';
+    '3':'(3)';
+    '4':'(4)';
+    '5':'(5)';
+    '6':'(6)';
+    '7':'(7)';
+    '8':'(8)';
+    '9':'(9)';
+    '10':'(10)';
+    '11':'(11)';
+    '12':'(12)';
+    '13':'(13)';
+    '14':'(14)';
+    '15':'(15)';
+    '16':'(16)';
+end_primitive;
+END.

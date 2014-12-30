@@ -1,0 +1,8 @@
+{ Packager-XL run on 30-Sep-2012 AT 21:23:31 }
+FILE_TYPE = BACK_ANNOTATION;
+DRAWING = "@buttons_lib.buttons(sch_1):page1";
+BODY = "J_3_ST","I1": LOCATION = "J1" #&CDS_LOCATION = "J1" &SEC = "1" #&CDS_SEC = "1";
+"1":   PN = "1"  !CDS_PN = "1";
+"2":   PN = "2"  !CDS_PN = "2";
+"3":   PN = "3"  !CDS_PN = "3";
+END.

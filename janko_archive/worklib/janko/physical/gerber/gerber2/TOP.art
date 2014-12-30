@@ -1,0 +1,20 @@
+G04 ================== begin FILE IDENTIFICATION RECORD ==================*
+G04 Layout Name:  D:\misc\Janko\worklib\janko\physical\janko_alt.brd*
+G04 Film Name:    TOP*
+G04 File Format:  Gerber RS274X*
+G04 File Origin:  15.2-s023*
+G04 Origin Date:  Mon Oct 25 17:23:55 2010*
+G04 ================== end FILE IDENTIFICATION RECORD ====================*
+%FSLAX53Y53*MOIN*%
+%IR0*IPPOS*OFA0.00000B0.00000*MIA0B0*SFA1.00000B1.00000*%
+%ADD10C,.125*%
+%ADD11C,.062*%
+G75*
+%LPD*%
+G75*
+G54D10*
+X450Y450D03*
+G54D11*
+G01X890Y460D02*
+X590D01*
+M02*

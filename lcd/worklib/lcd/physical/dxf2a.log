@@ -1,0 +1,70 @@
+Reading Layer Conversion File 
+Reading DXF file...
+NOTE: Replacing illegal character * with X in *PAPER_SPACE0.
+done.
+
+ERROR: ERROR(SPMHA1-66): Arc segment is outside of the extents.
+ERROR: Failed to add CIRCLE on line number 1606
+NOTE: Ignoring unsupported element SPLINE on line 1702.
+NOTE: Ignoring unsupported element SPLINE on line 1778.
+NOTE: Ignoring unsupported element SPLINE on line 1854.
+NOTE: Ignoring unsupported element SPLINE on line 1930.
+NOTE: Ignoring unsupported element SPLINE on line 2006.
+NOTE: Ignoring unsupported element SPLINE on line 2082.
+NOTE: Ignoring unsupported element SPLINE on line 2158.
+NOTE: Ignoring unsupported element SPLINE on line 2234.
+NOTE: Ignoring unsupported element SPLINE on line 2310.
+NOTE: Ignoring unsupported element SPLINE on line 2386.
+NOTE: Ignoring unsupported element SPLINE on line 2462.
+NOTE: Ignoring unsupported element SPLINE on line 2538.
+NOTE: Ignoring unsupported element SPLINE on line 2614.
+NOTE: Ignoring unsupported element SPLINE on line 2690.
+NOTE: Ignoring unsupported element SPLINE on line 2766.
+NOTE: Ignoring unsupported element SPLINE on line 2842.
+NOTE: Ignoring unsupported element SPLINE on line 2918.
+NOTE: Ignoring unsupported element SPLINE on line 2994.
+NOTE: Ignoring unsupported element SPLINE on line 3070.
+NOTE: Ignoring unsupported element SPLINE on line 3146.
+NOTE: Ignoring unsupported element SPLINE on line 3222.
+NOTE: Ignoring unsupported element SPLINE on line 3298.
+NOTE: Ignoring unsupported element SPLINE on line 3374.
+NOTE: Ignoring unsupported element SPLINE on line 3450.
+NOTE: Ignoring unsupported element SPLINE on line 3526.
+NOTE: Ignoring unsupported element SPLINE on line 3602.
+NOTE: Ignoring unsupported element SPLINE on line 3678.
+NOTE: Ignoring unsupported element SPLINE on line 3754.
+NOTE: Ignoring unsupported element SPLINE on line 3830.
+NOTE: Ignoring unsupported element SPLINE on line 3906.
+NOTE: Ignoring unsupported element SPLINE on line 3982.
+NOTE: Ignoring unsupported element SPLINE on line 4058.
+NOTE: Ignoring unsupported element SPLINE on line 4134.
+NOTE: Ignoring unsupported element SPLINE on line 4210.
+NOTE: Ignoring unsupported element SPLINE on line 4286.
+NOTE: Ignoring unsupported element SPLINE on line 4362.
+NOTE: Ignoring unsupported element SPLINE on line 4438.
+NOTE: Ignoring unsupported element SPLINE on line 4514.
+NOTE: Ignoring unsupported element SPLINE on line 4590.
+NOTE: Ignoring unsupported element SPLINE on line 4666.
+NOTE: Ignoring unsupported element SPLINE on line 4742.
+NOTE: Ignoring unsupported element SPLINE on line 4818.
+NOTE: Ignoring unsupported element SPLINE on line 4894.
+NOTE: Ignoring unsupported element SPLINE on line 4970.
+NOTE: Ignoring unsupported element SPLINE on line 5046.
+NOTE: Ignoring unsupported element SPLINE on line 5122.
+NOTE: Ignoring unsupported element SPLINE on line 5198.
+NOTE: Ignoring unsupported element SPLINE on line 5274.
+NOTE: Ignoring unsupported element SPLINE on line 5350.
+NOTE: Ignoring unsupported element SPLINE on line 5426.
+NOTE: Ignoring unsupported element SPLINE on line 5502.
+NOTE: Ignoring unsupported element SPLINE on line 5578.
+NOTE: Ignoring unsupported element SPLINE on line 5654.
+NOTE: Ignoring unsupported element SPLINE on line 5730.
+Layer conversion file: D:/Misc/Janko/template_l.cnv
+DXF file: D:/Misc/Janko/template.DXF
+BRD file: #Taaaaaa09404.tmp
+Update existing design?: YES
+Use default text?: NO
+DXF units: INCHES
+Design units: MILS
+Design precision: 3
+dxf2a complete.

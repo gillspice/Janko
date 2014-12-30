@@ -1,0 +1,31 @@
+(------------------------------------------------------------)
+(                                                            )
+(        Batch DRC Update                                    )
+(                                                            )
+(        Drawing          : jankomid26.brd                   )
+(        Software Version : 15.2s138                         )
+(        Date/Time        : Mon Nov 01 14:58:13 2010         )
+(                                                            )
+(------------------------------------------------------------)
+
+
+ ..... batch DRC requested for all elements 
+
+ ========= check shapes                       Mon Nov 01 14:58:13 2010
+ ========= check standalone pins              Mon Nov 01 14:58:13 2010
+ ========= check symbols (pins,lines,text)    Mon Nov 01 14:58:13 2010
+ ========= check nets                         Mon Nov 01 14:58:14 2010
+ ========= check standalone branches          Mon Nov 01 14:58:14 2010
+ ========= check standalone filled rectangles Mon Nov 01 14:58:14 2010
+ ========= check standalone lines             Mon Nov 01 14:58:14 2010
+ ========= check standalone text              Mon Nov 01 14:58:14 2010
+ ========= check standalone rectangles        Mon Nov 01 14:58:14 2010
+
+ ..... Total number of DRC errors  8
+
+
+WARNING: 361 dynamic shape(s) out of date; checking skipped on these elements.
+
+ ..... end batch DRC at                       Mon Nov 01 14:58:14 2010
+ *************************************************************************
+

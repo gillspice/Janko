@@ -1,0 +1,31 @@
+FILE_TYPE=EXPANDEDPARTLIST;
+{ Packager-XL run on 30-Sep-2012 AT 21:23:31 }
+DIRECTIVES
+ PST_VERSION='PST_HDL_CENTRIC_VERSION_0';
+ ROOT_DRAWING='BUTTONS';
+ POST_TIME='30-Sep-2012 AT 21:23:31';
+ SOURCE_TOOL='PACKAGER_XL';
+END_DIRECTIVES;
+
+PART_NAME
+ J1 'J_3_ST_AMP_640445-10017172,640B':;
+
+SECTION_NUMBER 1
+ '@BUTTONS_LIB.BUTTONS(SCH_1):PAGE1_I1@J_CONNECTOR2FJUMPER.J_3_ST(CHIPS)':
+ C_PATH='@buttons_lib.buttons(sch_1):page1_i1@j_connector2fjumper.j_3_st(chips)',
+ P_PATH='@buttons_lib.buttons(sch_1):page1_i1@j_connector2fjumper.j_3_st(chips)',
+ PATH='I1',
+ DRAWING='@BUTTONS_LIB.BUTTONS(SCH_1):PAGE1',
+ PHYS_PAGE='1',
+ XY='(-5575,4600)',
+ VER='1',
+ ROT='0',
+ CDS_LIB='j_connector2fjumper',
+ PART_NUMBER='10017172',
+ VALUE='640445-3',
+ PART_NAME='J_3_ST_AMP_640445',
+ JEDEC_TYPE='CONN-AMP-3PIN-156MIL-ST',
+ PRIM_FILE='//applpark/technology/Electronics/InProcess/tools/npielect/GE_Librar~
+y_16/Components/j_connector2fjumper/j_3_st/chips/chips.prt';
+
+END.

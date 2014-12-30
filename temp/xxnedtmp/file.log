@@ -1,0 +1,17 @@
+temp/xxnedtmp/event.log NEWFILE1
+temp/xxnedtmp/text.log NEWFILE2
+temp/xxnedtmp/environ.log NEWFILE3
+d:\Cadence\SPB_15.2\share\cdssetup/concept/concepthdl.scr FILE4
+ NEWFILE5
+.\cds.lib FILE6
+D:\MISC\JANKO\worklib\janko\sch_1\page1.csb FILE7
+D:\MISC\JANKO\worklib\janko\sch_1\page1_csb.lck NEWFILE8
+temp/xxnedtmp/undo1.log NEWFILE9
+\\BLDG35USERS1\GEAPPS\technology\npielect\GE_Library\Components\r_resistor\r_smt\sym_1\symbol.css FILE10
+\\BLDG35USERS1\GEAPPS\technology\npielect\GE_Library\Components\standard\ground\sym_1\symbol.css FILE11
+\\BLDG35USERS1\GEAPPS\technology\npielect\GE_Library\Components\standard\vcc_circle\sym_1\symbol.css FILE12
+\\BLDG35USERS1\GEAPPS\technology\npielect\GE_Library\Components\c_capacitor\c_smt\sym_1\symbol.css FILE13
+\\BLDG35USERS1\GEAPPS\technology\npielect\GE_Library\Components\s_switch\s_skeyaca010\sym_1\symbol.css FILE14
+\\BLDG35USERS1\GEAPPS\technology\npielect\GE_Library\Components\u_ic\u_pic18f4321_pdip40\sym_1\symbol.css FILE15
+\\BLDG35USERS1\GEAPPS\technology\npielect\GE_Library\Components\u_ic\u_74hc174\sym_1\symbol.css FILE16
+\\BLDG35USERS1\GEAPPS\technology\npielect\GE_Library\Components\j_connector2fjumper\j_5_st\sym_1\symbol.css FILE17

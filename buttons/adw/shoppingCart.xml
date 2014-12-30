@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sc:shoppingCart xmlns:sc="http://www.cadence.com/SPB/shopping_cart" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" checksum="0">
+	<component cell="j_3_st" library="j_connector2fjumper" partname="J_3_ST_AMP_640445" partno="10017172" quantity="1" >
+		<property name="JEDEC_TYPE"  value="CONN-AMP-3PIN-156MIL-ST"/>
+		<property name="PART_NAME"  value="J_3_ST_AMP_640445"/>
+		<property name="PART_NUMBER"  value="10017172"/>
+		<property name="VALUE"  value="640445-3"/>
+	</component>
+</sc:shoppingCart>

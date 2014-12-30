@@ -1,0 +1,155 @@
+(------------------------------------------------------------)
+(                                                            )
+(        ARTWORK LOG                                         )
+(                                                            )
+(        Drawing          : jankomid30nohexes.brd            )
+(        Software Version : 15.2s023                         )
+(        Date/Time        : Wed Nov 03 10:06:29 2010         )
+(                                                            )
+(------------------------------------------------------------)
+
+
+ ---- Photoplot outline rectangle not found ... using drawing extents
+
+
+Wed Nov 03 10:06:29 2010				Page     1
+
+Photoplot log file
+Results from parameter file ...
+
+DEVICE-TYPE           GERBER_RS274X
+OUTPUT-UNITS          INCHES
+FILM-SIZE             24000 16000
+FORMAT                5.3
+ABORT-ON-ERROR        NO
+SCALE                 1
+SUPPRESS-LEAD-ZEROES  YES
+SUPPRESS-TRAIL-ZEROES NO
+SUPPRESS-EQUAL        YES
+UNDEF-APT-CONT        NO
+
+ WARNING: for raster artwork formats, artwork accuracy must be
+  at least one place greater than the database accuracy, up
+  to the maximum accuracy allowed by the selected output format.
+
+  Increase the accuracy by increasing the "Decimal Places" in
+  the FORMAT section of the artwork parameters and then rerun
+  artwork.
+
+  The current output is rounding down the data.  Failure to change
+  the format may result in inaccurate arc coordinates in the output
+  files and possible shape/void plotting failures.
+
+
+================================================================
+     PROCESSING FILM < TOP.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                0.000
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0.000
+  Offset y:                           0.000
+  Plot negative                       NO
+  Suppress unconnected internal pads  NO
+
+	WARNING: Segment with same start and end points at
+	(800.000 4130.000) will be ignored.  Increasing output
+	accuracy may allow segment to be generated.
+
+	WARNING: Segment with same start and end points at
+	(5700.009 4209.991) will be ignored.  Increasing output
+	accuracy may allow segment to be generated.
+
+	WARNING: Segment with same start and end points at
+	(9094.967 1984.967) will be ignored.  Increasing output
+	accuracy may allow segment to be generated.
+
+	WARNING: Segment with same start and end points at
+	(10210.711 250.000) will be ignored.  Increasing output
+	accuracy may allow segment to be generated.
+
+	WARNING: Segment with same start and end points at
+	(10231.422 300.000) will be ignored.  Increasing output
+	accuracy may allow segment to be generated.
+
+
+
+  APERTURES USED:
+  ---------------------------------------------------------
+  TYPE       SIZE/NAME                   ROT   MIRROR MODE 
+  ---------------------------------------------------------
+  CIRCLE     0.02000                                  DARK 
+  CIRCLE     0.03000                                  DARK 
+  CIRCLE     0.05000                                  DARK 
+  CIRCLE     0.07000                                  DARK 
+  CIRCLE     0.07600                                  DARK 
+  SQUARE     0.07000                     0.000 NO     DARK 
+  RECTANGLE  0.05200     x 0.06000       0.000 NO     DARK 
+  RECTANGLE  0.05200     x 0.06000      90.000 NO     DARK 
+  RECTANGLE  0.10000     x 0.07000      90.000 NO     DARK 
+
+     TOP created with warnings
+
+
+================================================================
+     PROCESSING FILM < TOP.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                0.000
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0.000
+  Offset y:                           0.000
+  Plot negative                       NO
+  Suppress unconnected internal pads  NO
+
+	WARNING: Segment with same start and end points at
+	(800.000 4130.000) will be ignored.  Increasing output
+	accuracy may allow segment to be generated.
+
+	WARNING: Segment with same start and end points at
+	(5700.009 4209.991) will be ignored.  Increasing output
+	accuracy may allow segment to be generated.
+
+	WARNING: Segment with same start and end points at
+	(9094.967 1984.967) will be ignored.  Increasing output
+	accuracy may allow segment to be generated.
+
+	WARNING: Segment with same start and end points at
+	(10210.711 250.000) will be ignored.  Increasing output
+	accuracy may allow segment to be generated.
+
+	WARNING: Segment with same start and end points at
+	(10231.422 300.000) will be ignored.  Increasing output
+	accuracy may allow segment to be generated.
+
+
+
+  APERTURES USED:
+  ---------------------------------------------------------
+  TYPE       SIZE/NAME                   ROT   MIRROR MODE 
+  ---------------------------------------------------------
+  CIRCLE     0.02000                                  DARK 
+  CIRCLE     0.03000                                  DARK 
+  CIRCLE     0.05000                                  DARK 
+  CIRCLE     0.07000                                  DARK 
+  CIRCLE     0.07600                                  DARK 
+  SQUARE     0.07000                     0.000 NO     DARK 
+  RECTANGLE  0.05200     x 0.06000       0.000 NO     DARK 
+  RECTANGLE  0.05200     x 0.06000      90.000 NO     DARK 
+  RECTANGLE  0.10000     x 0.07000      90.000 NO     DARK 
+
+     TOP created with warnings
+
+
+------------------------------------------------------
+ SUMMARY:
+            TOP created with warnings
+            TOP created with warnings
+
+ ARTWORK finished

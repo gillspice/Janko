@@ -1,0 +1,4 @@
+Reading Configuration: buttons_lib buttons cfg_package
+
+van.exe -q -nolinks -sironly -cdslib cds.lib -module "buttons_lib.glbl:buttons_cfg_package" -lib "buttons_lib" -view "buttons_cfg_package" -define VAN -globals "buttons_lib.glbl:buttons_cfg_package"
+van.exe  -nolinks -sironly -cdslib cds.lib "D:\Misc\Janko\buttons\worklib\buttons\sch_1\verilog.v" -lib "buttons_lib" -view sch_1 -instanceview sch_1 -instanceview entity -define VAN -globals "buttons_lib.glbl:buttons_cfg_package" 

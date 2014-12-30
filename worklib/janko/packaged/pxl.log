@@ -1,0 +1,138 @@
+
+
+    Cadence Design Systems, Inc.
+    Packager-XL 15.20-s004 WIN32 29-Mar-2006 12:00:00 IST
+    (C) Copyright 1994, Cadence Design Systems, Inc.
+
+    Run on Thu Jan 06 16:25:24 2011
+
+
+ **********************************************
+ *  Processing project file and command line  *
+ **********************************************
+
+
+
+    ANNOTATE  'BODY' 'PIN'
+    COMP_DEF_PROP  'ALT_SYMBOLS' 'JEDEC_TYPE' 'NC_PINS' 'MERGE_NC_PINS'
+                   'POWER_GROUP' 'POWER_PINS' 'MERGE_POWER_PINS' 'PINCOUNT'
+    COMP_INST_PROP  'GROUP' 'ROOM' 'REUSE_INSTANCE' 'REUSE_ID' 'REUSE_NAME'
+                    'SIGNAL_MODEL' 'DEFAULT_SIGNAL_MODEL'
+                    'VOLT_TEMP_SIGNAL_MODEL'
+    SUPPRESS_GLOBAL_SHORT_CHECK OFF
+    DEBUG    0
+    DEFAULT_PHYS_DES_PREFIX U
+    FEEDBACK  'OFF'
+    MAX_ERRORS 999
+    NET_NAME_CHARS   @  -  !  #  %  &  (  )  *  .  /  :  ?  [  ]  ^  _  `  +
+                     =  >  0  1  2  3  4  5  6  7  8  9
+    NET_NAME_LENGTH 31
+    NUM_OLD_VERSIONS 3
+    OPTIMIZE OFF
+    REUSE_REFDES ON
+    OPF_OPTIMIZATION OFF
+    HARD_LOC_SEC OFF
+    FORCE_PTF_ENTRY OFF
+    REGENERATE_PHYSICAL_NET_NAME ON
+    SCH_POWER_GROUP_WINS_OVER_PPT OFF
+    NULL_OPT_VALID OFF
+    USE_VECTOR_NOTATION ON
+    FILTER_ECS_FROM_XNET ON
+    OUTPUT  'ON'
+    PACKAGE_PROP  'GROUP' 'ROOM'
+    PART_TYPE_LENGTH 31
+    REF_DES_LENGTH 31
+    REPACKAGE OFF
+    ELECTRICAL_CONSTRAINTS OFF
+    OVERWRITE_CONSTRAINTS OFF
+    RUN_DIR ./worklib/janko/packaged/
+    STRICT_PACKAGE_PROP  'REUSE_INSTANCE'
+    USE_LIBRARY_PPT ON
+    USE_STATE ON
+    WARNINGS ON
+    LIBRARY  'janko_lib' 'standard' 'u_ic' 'r_resistor' 'j_connector2fjumper'
+             'c_capacitor' 's_switch' 'd_diode'
+    VIEW_PTF part_table
+    VIEW_PACKAGER packaged
+    VIEW_CONSTRAINTS constraints
+    DESIGN_LIBRARY janko_lib
+    DESIGN_NAME janko
+    VIEW_CONFIG_PHYSICAL cfg_package
+    SD_SUFFIX_SEPARATOR _
+    CACHE_ENABLED OFF
+    CACHE_NAME cache
+    PTF_NAME cache.ptf
+
+ **************************************************************
+ *  End processing project file and command line  (00:00:01)  *
+ **************************************************************
+
+
+Creating Configuration "cfg_package" for Design "janko"
+
+Loading d:\Cadence\SPB_15.2\share\cdssetup\cdsprop.tmf.
+Loading d:\Cadence\SPB_15.2\share\cdssetup\cdsprop.paf.
+
+ *********************************
+ *  Loading the design database  *
+ *********************************
+
+Loading occurrence properties from ./worklib/janko/opf/props.opf.
+Loading //BLDG35USERS1/GEAPPS/technology/npielect/GE_Library/Components/j_conn~
+ector2fjumper/j_8_st/part_table/part.ptf.
+Loading //BLDG35USERS1/GEAPPS/technology/npielect/GE_Library/Components/d_diod~
+e/d_smt_signal/part_table/part.ptf.
+Loading //BLDG35USERS1/GEAPPS/technology/npielect/GE_Library/Components/s_swit~
+ch/s_skeyaca010/part_table/part.ptf.
+Loading //BLDG35USERS1/GEAPPS/technology/npielect/GE_Library/Components/u_ic/u~
+_pic18f4321_pdip40/part_table/part.ptf.
+Loading //BLDG35USERS1/GEAPPS/technology/npielect/GE_Library/Components/u_ic/u~
+_74hc174/part_table/part.ptf.
+Loading //BLDG35USERS1/GEAPPS/technology/npielect/GE_Library/Components/c_capa~
+citor/c_smt/part_table/part.ptf.
+Loading //BLDG35USERS1/GEAPPS/technology/npielect/GE_Library/Components/r_resi~
+stor/r_smt/part_table/part.ptf.
+Loading //BLDG35USERS1/GEAPPS/technology/npielect/GE_Library/Components/j_conn~
+ector2fjumper/j_5_st/part_table/part.ptf.
+
+ *************************
+ *  Loading State Files  *
+ *************************
+
+Loading ./worklib/janko/packaged/pxl.state. 
+
+ *****************************************
+ *  End loading State Files  (00:00:00)  *
+ *****************************************
+
+
+ ****************************************
+ *  Starting to assign physical parts.  *
+ ****************************************
+
+
+ ***********************************************
+ *  End assigning physical parts.  (00:00:00)  *
+ ***********************************************
+
+
+ ***************
+ *  Packaging  *
+ ***************
+
+
+ *******************************
+ *  End packaging  (00:00:00)  *
+ *******************************
+
+
+No errors detected
+No warnings detected
+    Start time   16:25:23
+    End time     16:25:35
+    Elapsed time  0:00:12
+
+ *********************************
+ *  Packager-XL execution done.  *
+ *********************************
+

@@ -1,0 +1,32 @@
+(PropertyFile "1.0" 
+ (Creator " HDL Direct 16.3-S021 (v16-3-85AK) 12/6/2010" )
+ (Created "Sun Sep 30 21:28:19 2012" )
+ (Cell "buttons" 
+  (View "sch_1" 
+   (Inst "page1_I1" 
+    (Pr 
+     ("JEDEC_TYPE" "CONN-AMP-3PIN-156MIL-ST" )
+     ("PART_NAME" "J_3_ST_AMP_640445" )
+     ("VALUE" "640445-3" )
+     ("PART_NUMBER" "10017172" )
+     ("CDS_LIB" "j_connector2fjumper" )
+     ("CDS_LMAN_SYM_OUTLINE" "-100,150,100,-150" )
+     ("NEEDS_NO_SIZE" "TRUE" )
+     ("\\$alt_symbols\\" "?" )
+     ("CDS_SEC" "1" )
+     ("\\$sec\\" "1" )
+     ("CDS_LOCATION" "J1" )
+     ("\\$location\\" "J1" )
+     ("ROT" "0" )
+     ("VER" "1" )
+     ("XY" "(-5575,4600)" )
+     ("PHYS_PAGE" "1" ))
+    (IPrt "\\3\\" 
+     (Pr 
+      ("\\$pn\\" "3" )))
+    (IPrt "\\2\\" 
+     (Pr 
+      ("\\$pn\\" "2" )))
+    (IPrt "\\1\\" 
+     (Pr 
+      ("\\$pn\\" "1" )))))))

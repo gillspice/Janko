@@ -1,0 +1,91 @@
+(------------------------------------------------------------)
+(                                                            )
+(        ARTWORK LOG                                         )
+(                                                            )
+(        Drawing          : jankokeys7.brd                   )
+(        Software Version : 15.2s023                         )
+(        Date/Time        : Tue Dec 28 11:03:05 2010         )
+(                                                            )
+(------------------------------------------------------------)
+
+
+ ---- Photoplot outline rectangle not found ... using drawing extents
+
+
+Tue Dec 28 11:03:05 2010				Page     1
+
+Photoplot log file
+Results from parameter file ...
+
+DEVICE-TYPE           GERBER_RS274X
+OUTPUT-UNITS          INCHES
+FILM-SIZE             24000 16000
+FORMAT                5.3
+ABORT-ON-ERROR        NO
+SCALE                 1
+SUPPRESS-LEAD-ZEROES  YES
+SUPPRESS-TRAIL-ZEROES NO
+SUPPRESS-EQUAL        YES
+UNDEF-APT-CONT        NO
+
+ WARNING: for raster artwork formats, artwork accuracy must be
+  at least one place greater than the database accuracy, up
+  to the maximum accuracy allowed by the selected output format.
+
+  Increase the accuracy by increasing the "Decimal Places" in
+  the FORMAT section of the artwork parameters and then rerun
+  artwork.
+
+  The current output is rounding down the data.  Failure to change
+  the format may result in inaccurate arc coordinates in the output
+  files and possible shape/void plotting failures.
+
+
+================================================================
+     PROCESSING FILM < TOP.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                0.000
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0.000
+  Offset y:                           0.000
+  Plot negative                       NO
+  Suppress unconnected internal pads  NO
+
+	WARNING: Film contains DRC error(s).
+
+
+  APERTURES USED:  NONE
+     TOP created with warnings
+
+
+================================================================
+     PROCESSING FILM < TOP.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                0.000
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0.000
+  Offset y:                           0.000
+  Plot negative                       NO
+  Suppress unconnected internal pads  NO
+
+	WARNING: Film contains DRC error(s).
+
+
+  APERTURES USED:  NONE
+     TOP created with warnings
+
+
+------------------------------------------------------
+ SUMMARY:
+            TOP created with warnings
+            TOP created with warnings
+
+ ARTWORK finished

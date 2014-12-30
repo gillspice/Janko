@@ -1,0 +1,636 @@
+\t (00:00:08) allegro 15.2 s138 (v15-2-51FL) i86
+\t (00:00:08) 
+
+\t (00:00:10) Opening existing drawing...
+\t (00:00:10) Grids are drawn 160.000, 160.000 apart for enhanced viewability.
+\i (00:00:10) trapsize 6657
+\i (00:00:11) trapsize 7672
+\i (00:00:11) trapsize 7672
+\i (00:00:38) color 
+\i (00:00:38) setwindow form.cvf_main
+\i (00:00:38) FORM cvf_main class_list Stack-Up
+\i (00:00:40) FORM cvf_main class_list Manufacturing 
+\i (00:00:43) FORM cvf_main manufacturing/autosilk_top/visible YES 
+\i (00:00:44) FORM cvf_main apply  
+\i (00:00:46) FORM cvf_main manufacturing/autosilk_bottom/visible YES 
+\i (00:00:47) FORM cvf_main apply  
+\i (00:00:49) FORM cvf_main manufacturing/autosilk_bottom/visible NO 
+\i (00:00:49) FORM cvf_main manufacturing/autosilk_top/visible NO 
+\i (00:00:51) FORM cvf_main class_list Stack-Up 
+\i (00:00:53) FORM cvf_main etch/top/visible YES 
+\i (00:00:53) FORM cvf_main etch/bottom/visible NO 
+\i (00:00:54) FORM cvf_main apply  
+\i (00:00:58) FORM cvf_main cancel  
+\i (00:01:00) setwindow pcb
+\i (00:01:00) open 
+\f (00:01:00) Do you want to save the changes you made to jankomid31nohexes.brd?
+\i (00:01:01) fillin no 
+\i (00:01:09) fillin "jankomid29.brd"
+\t (00:01:09) Opening existing drawing...
+\t (00:01:09) Grids are drawn 40.000, 40.000 apart for enhanced viewability.
+\i (00:01:09) trapsize 30686
+\i (00:01:12) color 
+\i (00:01:12) setwindow form.cvf_main
+\i (00:01:12) FORM cvf_main class_list Stack-Up
+\i (00:01:14) FORM cvf_main etch/top/visible YES 
+\i (00:01:14) FORM cvf_main etch/bottom/visible NO 
+\i (00:01:15) FORM cvf_main apply  
+\i (00:01:16) FORM cvf_main ok  
+\i (00:01:17) setwindow pcb
+\i (00:01:17) roam start
+\i (00:01:17) roam x -32
+\i (00:01:17) roam y 16
+\i (00:01:17) roam x -80
+\i (00:01:17) roam y 48
+\i (00:01:17) roam x -80
+\i (00:01:17) roam y 64
+\i (00:01:17) roam x -32
+\i (00:01:17) roam y 48
+\i (00:01:17) roam x -48
+\i (00:01:17) roam y 32
+\i (00:01:17) roam x -48
+\i (00:01:17) roam y 64
+\i (00:01:17) roam x -32
+\i (00:01:17) roam y 32
+\i (00:01:17) roam x -32
+\i (00:01:17) roam y 32
+\i (00:01:17) roam x -32
+\i (00:01:17) roam y 48
+\i (00:01:17) roam y 32
+\i (00:01:17) roam x -16
+\i (00:01:17) roam y 16
+\i (00:01:17) roam x -16
+\i (00:01:17) roam y 16
+\i (00:01:17) roam y 16
+\i (00:01:17) roam x -16
+\i (00:01:17) roam y 16
+\i (00:01:17) roam x -16
+\i (00:01:17) roam y 16
+\i (00:01:18) roam x -16
+\i (00:01:18) roam y 32
+\i (00:01:18) roam y 16
+\i (00:01:18) roam x -16
+\i (00:01:18) roam y 16
+\i (00:01:18) roam y 32
+\i (00:01:18) roam y 16
+\i (00:01:18) roam y 32
+\i (00:01:18) roam y 16
+\i (00:01:18) roam y 16
+\i (00:01:18) roam end
+\e (00:01:22) Command not found: Pgup
+\e (00:01:23) Command not found: Pgup
+\i (00:01:25) zoom out 
+\i (00:01:25) setwindow pcb
+\i (00:01:25) zoom out 494.956 477.985
+\t (00:01:25) Grids are drawn 160.000, 160.000 apart for enhanced viewability.
+\i (00:01:25) trapsize 61372
+\i (00:01:25) zoom out 
+\i (00:01:25) setwindow pcb
+\i (00:01:25) zoom out 494.956 477.984
+\i (00:01:25) trapsize 122744
+\i (00:01:26) zoom in 
+\i (00:01:26) setwindow pcb
+\i (00:01:26) zoom in 2747.292 -2960.650
+\i (00:01:26) trapsize 61372
+\i (00:01:26) zoom in 
+\i (00:01:26) setwindow pcb
+\i (00:01:26) zoom in 1618.050 -1131.768
+\t (00:01:26) Grids are drawn 40.000, 40.000 apart for enhanced viewability.
+\i (00:01:26) trapsize 30686
+\i (00:01:27) roam start
+\i (00:01:27) roam x -48
+\i (00:01:27) roam y -16
+\i (00:01:27) roam x -48
+\i (00:01:27) roam y -32
+\i (00:01:27) roam x -80
+\i (00:01:27) roam y -48
+\i (00:01:27) roam x -48
+\i (00:01:27) roam y -16
+\i (00:01:27) roam x -112
+\i (00:01:27) roam y -16
+\i (00:01:27) roam x -32
+\i (00:01:27) roam x 48
+\i (00:01:27) roam y 16
+\i (00:01:27) roam x 64
+\i (00:01:27) roam y 32
+\i (00:01:27) roam x 48
+\i (00:01:27) roam x 16
+\i (00:01:27) roam x 16
+\i (00:01:27) roam x 16
+\i (00:01:27) roam end
+\i (00:01:27) zoom in 
+\i (00:01:27) setwindow pcb
+\i (00:01:27) zoom in 507.220 361.371
+\i (00:01:27) trapsize 15343
+\i (00:01:28) zoom in 
+\i (00:01:28) setwindow pcb
+\i (00:01:28) zoom in 571.661 364.440
+\i (00:01:28) trapsize 7671
+\i (00:02:02) shape add rect 
+\i (00:02:03) pick grid 310.831 289.260
+\t (00:02:03) last pick:  310.000  290.000
+\i (00:02:05) oops 
+\i (00:02:16) pick 174.4 y 174.4 
+\t (00:02:16) last pick:  174.400  174.400
+\i (00:02:28) ipick 551.2 iy 551.2 
+\t (00:02:28) last pick:  725.600  725.600
+\i (00:02:39) done 
+\i (00:02:40) roam start
+\i (00:02:40) roam x 64
+\i (00:02:40) roam y 32
+\i (00:02:40) roam x 48
+\i (00:02:40) roam y 32
+\i (00:02:40) roam x 80
+\i (00:02:40) roam y 16
+\i (00:02:40) roam x 80
+\i (00:02:40) roam y 16
+\i (00:02:40) roam x 128
+\i (00:02:40) roam x 32
+\i (00:02:40) roam y -16
+\i (00:02:40) roam x 16
+\i (00:02:40) roam y -64
+\i (00:02:40) roam x -16
+\i (00:02:40) roam y -64
+\i (00:02:40) roam x -48
+\i (00:02:40) roam y -64
+\i (00:02:40) roam x -32
+\i (00:02:40) roam y -64
+\i (00:02:40) roam x -80
+\i (00:02:40) roam y -80
+\i (00:02:40) roam x -144
+\i (00:02:40) roam y -96
+\i (00:02:40) roam x -160
+\i (00:02:40) roam y -32
+\i (00:02:40) roam x -112
+\i (00:02:41) roam x -48
+\i (00:02:41) roam x -16
+\i (00:02:41) roam y 16
+\i (00:02:41) roam x 16
+\i (00:02:41) roam y -16
+\i (00:02:41) roam x -16
+\i (00:02:41) roam y 32
+\i (00:02:41) roam y 32
+\i (00:02:41) roam end
+\i (00:02:42) delete 
+\i (00:02:43) pick grid 407.491 570.036
+\t (00:02:43) last pick:  410.000  570.000
+\t (00:02:43) No element found
+\i (00:02:44) pick grid 422.834 458.032
+\t (00:02:44) last pick:  420.000  460.000
+\t (00:02:44) No element found
+\i (00:02:46) setwindow form.find
+\i (00:02:46) FORM find shapes YES 
+\i (00:02:47) setwindow pcb
+\i (00:02:47) pick grid 375.271 499.458
+\t (00:02:47) last pick:  380.000  500.000
+\t (00:02:47) Shape "Dummy Net, Etch/Top"
+\i (00:02:48) pick grid 439.711 847.743
+\t (00:02:48) last pick:  440.000  850.000
+\t (00:02:48) No element found
+\i (00:02:50) done 
+\i (00:02:50) roam start
+\i (00:02:50) roam x 48
+\i (00:02:50) roam y 48
+\i (00:02:50) roam x 128
+\i (00:02:50) roam y 64
+\i (00:02:50) roam x 112
+\i (00:02:50) roam y 64
+\i (00:02:50) roam x 32
+\i (00:02:50) roam y 32
+\i (00:02:51) roam y 16
+\i (00:02:51) roam x -16
+\i (00:02:51) roam y 16
+\i (00:02:51) roam x -16
+\i (00:02:51) roam x -32
+\i (00:02:51) roam y 16
+\i (00:02:51) roam x -48
+\i (00:02:51) roam x -32
+\i (00:02:51) roam x -16
+\i (00:02:51) roam end
+\i (00:04:23) open 
+\f (00:04:23) Do you want to save the changes you made to jankomid29.brd?
+\i (00:04:25) fillin no 
+\i (00:04:30) fillin "jankomid8.brd"
+\t (00:04:30) Opening existing drawing...
+\t (00:04:30) Grids are drawn 40.000, 40.000 apart for enhanced viewability.
+\i (00:04:30) trapsize 30686
+\i (00:04:32) roam start
+\i (00:04:32) roam x 32
+\i (00:04:32) roam y 80
+\i (00:04:32) roam x 128
+\i (00:04:32) roam y 192
+\i (00:04:32) roam x 96
+\i (00:04:32) roam y 96
+\i (00:04:32) roam x 64
+\i (00:04:32) roam y 48
+\i (00:04:33) roam x 112
+\i (00:04:33) roam y 48
+\i (00:04:33) roam x 128
+\i (00:04:33) roam y 16
+\i (00:04:33) roam x 128
+\i (00:04:33) roam y 16
+\i (00:04:33) roam x 96
+\i (00:04:33) roam x 48
+\i (00:04:33) roam x 32
+\i (00:04:33) roam x 80
+\i (00:04:33) roam y 32
+\i (00:04:33) roam x 96
+\i (00:04:33) roam y 32
+\i (00:04:33) roam x 32
+\i (00:04:33) roam end
+\i (00:04:34) roam start
+\i (00:04:34) roam x -48
+\i (00:04:34) roam y 32
+\i (00:04:34) roam x -48
+\i (00:04:34) roam y 48
+\i (00:04:34) roam x -96
+\i (00:04:34) roam y 32
+\i (00:04:34) roam x -128
+\i (00:04:34) roam y 48
+\i (00:04:34) roam x -112
+\i (00:04:34) roam y 16
+\i (00:04:34) roam x -48
+\i (00:04:34) roam x -80
+\i (00:04:34) roam y -16
+\i (00:04:34) roam x -128
+\i (00:04:34) roam y -32
+\i (00:04:34) roam x -112
+\i (00:04:34) roam y -32
+\i (00:04:34) roam x -160
+\i (00:04:34) roam y -16
+\i (00:04:34) roam x -112
+\i (00:04:34) roam x -16
+\i (00:04:34) roam y -16
+\i (00:04:34) roam end
+\i (00:04:36) open 
+\i (00:04:39) fillin "jankomid5.brd"
+\t (00:04:39) Opening existing drawing...
+\t (00:04:39) Grids are drawn 160.000, 160.000 apart for enhanced viewability.
+\i (00:04:39) trapsize 61372
+\i (00:04:42) open 
+\i (00:04:48) fillin "jankomid1.brd"
+\t (00:04:48) Opening existing drawing...
+\t (00:04:48) Grids are drawn 160.000, 160.000 apart for enhanced viewability.
+\i (00:04:48) trapsize 61372
+\i (00:05:00) open 
+\i (00:05:05) fillin "jankomid2.brd"
+\t (00:05:05) Opening existing drawing...
+\t (00:05:05) Grids are drawn 40.000, 40.000 apart for enhanced viewability.
+\i (00:05:05) trapsize 45822
+\i (00:05:07) roam start
+\i (00:05:07) roam y 16
+\i (00:05:07) roam x 16
+\i (00:05:07) roam y 32
+\i (00:05:07) roam x 16
+\i (00:05:07) roam y 48
+\i (00:05:07) roam y 16
+\i (00:05:07) roam y 16
+\i (00:05:07) roam y 32
+\i (00:05:07) roam y 16
+\i (00:05:07) roam y 32
+\i (00:05:07) roam x -16
+\i (00:05:07) roam y 32
+\i (00:05:07) roam x -16
+\i (00:05:07) roam y 32
+\i (00:05:07) roam x -16
+\i (00:05:07) roam y 32
+\i (00:05:07) roam y 32
+\i (00:05:07) roam y 16
+\i (00:05:07) roam y 16
+\i (00:05:08) roam x 48
+\i (00:05:08) roam y -16
+\i (00:05:08) roam x 48
+\i (00:05:08) roam y -32
+\i (00:05:08) roam x 64
+\i (00:05:08) roam y -32
+\i (00:05:08) roam x 16
+\i (00:05:08) roam y -16
+\i (00:05:09) roam y -32
+\i (00:05:09) roam y -32
+\i (00:05:09) roam y -16
+\i (00:05:09) roam y -32
+\i (00:05:09) roam y -16
+\i (00:05:09) roam x -16
+\i (00:05:09) roam y -16
+\i (00:05:09) roam x -16
+\i (00:05:09) roam x -16
+\i (00:05:09) roam y 48
+\i (00:05:09) roam y 16
+\i (00:05:10) roam y 16
+\i (00:05:10) roam y 16
+\i (00:05:11) roam y -16
+\i (00:05:11) roam y -16
+\i (00:05:11) roam y -16
+\i (00:05:11) roam y -16
+\i (00:05:11) roam y -16
+\i (00:05:11) roam y -16
+\i (00:05:11) roam y -16
+\i (00:05:11) roam y -16
+\i (00:05:11) roam x 16
+\i (00:05:11) roam y -16
+\i (00:05:12) roam y 16
+\i (00:05:12) roam y 16
+\i (00:05:12) roam y 16
+\i (00:05:12) roam x -16
+\i (00:05:12) roam y 16
+\i (00:05:15) roam x -16
+\i (00:05:16) roam x -16
+\i (00:05:16) roam x -32
+\i (00:05:16) roam y 16
+\i (00:05:16) roam x -48
+\i (00:05:16) roam y 16
+\i (00:05:16) roam x -32
+\i (00:05:16) roam y 32
+\i (00:05:16) roam x -64
+\i (00:05:16) roam y 16
+\i (00:05:16) roam x -16
+\i (00:05:16) roam y 16
+\i (00:05:16) roam x -32
+\i (00:05:16) roam y 16
+\i (00:05:16) roam x -16
+\i (00:05:16) roam y 16
+\i (00:05:17) roam y -16
+\i (00:05:17) roam y -16
+\i (00:05:18) roam y -16
+\i (00:05:18) roam y -32
+\i (00:05:18) roam y -16
+\i (00:05:18) roam y -16
+\i (00:05:18) roam y -32
+\i (00:05:18) roam y -16
+\i (00:05:18) roam y -16
+\i (00:05:18) roam end
+\i (00:05:20) open 
+\i (00:05:24) fillin "jankomid1.brd"
+\t (00:05:24) Opening existing drawing...
+\t (00:05:24) Grids are drawn 160.000, 160.000 apart for enhanced viewability.
+\i (00:05:24) trapsize 61372
+\i (00:05:25) roam start
+\i (00:05:25) roam y 16
+\i (00:05:25) roam y 32
+\i (00:05:25) roam y 16
+\i (00:05:25) roam y 32
+\i (00:05:25) roam y 16
+\i (00:05:25) roam x -48
+\i (00:05:25) roam y 16
+\i (00:05:25) roam x -32
+\i (00:05:25) roam y 16
+\i (00:05:25) roam x -16
+\i (00:05:25) roam x -32
+\i (00:05:25) roam x -16
+\i (00:05:25) roam x -16
+\i (00:05:25) roam x -16
+\i (00:05:25) roam y 16
+\i (00:05:25) roam end
+\e (00:05:27) Command not found: Pgup
+\e (00:05:29) Command not found: Pgup
+\i (00:05:30) zoom out 
+\i (00:05:30) setwindow pcb
+\i (00:05:30) zoom out 648.377 3110.831
+\i (00:05:30) trapsize 122744
+\i (00:05:31) zoom in 
+\i (00:05:31) setwindow pcb
+\i (00:05:31) zoom in 1151.625 746.209
+\i (00:05:31) trapsize 61372
+\i (00:05:31) zoom in 
+\i (00:05:31) setwindow pcb
+\i (00:05:31) zoom in 611.552 206.137
+\t (00:05:31) Grids are drawn 40.000, 40.000 apart for enhanced viewability.
+\i (00:05:31) trapsize 30686
+\i (00:05:31) zoom in 
+\i (00:05:31) setwindow pcb
+\i (00:05:31) zoom in 599.278 181.589
+\i (00:05:31) trapsize 15343
+\i (00:05:32) zoom in 
+\i (00:05:32) setwindow pcb
+\i (00:05:32) zoom in 593.141 178.520
+\i (00:05:32) trapsize 7671
+\i (00:05:33) roam start
+\i (00:05:33) roam x -96
+\i (00:05:33) roam x -32
+\i (00:05:33) roam x -16
+\i (00:05:33) roam x -16
+\i (00:05:33) roam y 16
+\i (00:05:33) roam x -16
+\i (00:05:34) roam end
+\i (00:05:49) copy 
+\t (00:05:49) Select the element(s) to copy.
+\i (00:05:49) delete 
+\i (00:05:50) pick grid 439.711 425.812
+\t (00:05:50) last pick:  440.000  430.000
+\t (00:05:50) Shape "Dummy Net, Boundary/Top"
+\i (00:05:50) pick grid 880.054 685.108
+\t (00:05:50) last pick:  880.000  690.000
+\t (00:05:50) No element found
+\i (00:05:51) shape add rect 
+\i (00:05:55) setwindow form.mini
+\i (00:05:55) FORM mini subclass TOP 
+\i (00:05:59) setwindow pcb
+\i (00:05:59) pick 174.4 
+\t (00:05:59) last pick:  174.400  690.000
+\i (00:06:01) oops 
+\i (00:06:06) pick 174.4 y 174.4 
+\t (00:06:06) last pick:  174.400  174.400
+\i (00:06:15) ipick 551.2 iy 551.2 
+\t (00:06:15) last pick:  725.600  725.600
+\i (00:06:22) done 
+\i (00:06:23) move 
+\t (00:06:23) Select element(s) to move.
+\i (00:06:24) pick grid 548.646 421.209
+\t (00:06:24) last pick:  550.000  420.000
+\t (00:06:24) Element has no origin. Using pick.
+\t (00:06:24) Pick new location for element(s).
+\i (00:06:25) oops 
+\i (00:06:26) copy 
+\t (00:06:26) Select the element(s) to copy.
+\i (00:06:27) pick grid 382.942 508.664
+\t (00:06:27) last pick:  380.000  510.000
+\i (00:06:30) ipick 941 
+\t (00:06:30) last pick:  1321.000  510.000
+\i (00:06:47) ipick -470.5 iy 825 
+\t (00:06:47) last pick:  850.500  1335.000
+\i (00:06:48) zoom out 
+\i (00:06:48) setwindow pcb
+\i (00:06:48) zoom out 514.891 543.953
+\i (00:06:48) trapsize 15343
+\i (00:06:49) zoom out 
+\i (00:06:49) setwindow pcb
+\i (00:06:49) zoom out 505.686 856.950
+\i (00:06:49) trapsize 30686
+\i (00:06:50) roam start
+\i (00:06:50) roam y -16
+\i (00:06:50) roam x -48
+\i (00:06:50) roam y -128
+\i (00:06:51) roam end
+\i (00:06:54) ipick 941 
+\t (00:06:54) last pick:  1791.500  1335.000
+\i (00:06:58) ipick 941 
+\t (00:06:58) last pick:  2732.500  1335.000
+\i (00:07:00) ipick 941 
+\t (00:07:00) last pick:  3673.500  1335.000
+\i (00:07:55) next 
+\t (00:07:55) Select the element(s) to copy.
+\i (00:07:56) pick grid 1366.426 619.134
+\t (00:07:56) last pick:  1370.000  620.000
+\i (00:07:58) ipick 941 
+\t (00:07:58) last pick:  2311.000  620.000
+\i (00:08:00) ipick 941 
+\t (00:08:00) last pick:  3252.000  620.000
+\i (00:08:04) next 
+\t (00:08:04) Select the element(s) to copy.
+\i (00:08:05) pick grid 353.790 576.174
+\t (00:08:05) last pick:  350.000  580.000
+\i (00:08:14) ipick 0 iy 1650 
+\t (00:08:14) last pick:  350.000  2230.000
+\i (00:08:18) ipick 941 
+\t (00:08:18) last pick:  1291.000  2230.000
+\i (00:08:20) ipick 941 
+\t (00:08:20) last pick:  2232.000  2230.000
+\i (00:08:22) ipick 941 
+\t (00:08:22) last pick:  3173.000  2230.000
+\i (00:08:26) next 
+\t (00:08:26) Select the element(s) to copy.
+\i (00:08:27) pick grid 918.411 1208.303
+\t (00:08:27) last pick:  920.000  1210.000
+\i (00:08:32) ipick 0 iy 1650 
+\t (00:08:32) last pick:  920.000  2860.000
+\i (00:08:34) ipick 941 
+\t (00:08:34) last pick:  1861.000  2860.000
+\i (00:08:36) ipick 941 
+\t (00:08:36) last pick:  2802.000  2860.000
+\i (00:08:39) ipick 941 
+\t (00:08:39) last pick:  3743.000  2860.000
+\i (00:08:41) done 
+\i (00:08:41) roam start
+\i (00:08:41) roam x 16
+\i (00:08:41) roam x 224
+\i (00:08:41) roam y -16
+\i (00:08:41) roam x 80
+\i (00:08:41) roam y -16
+\i (00:08:41) roam x 32
+\i (00:08:41) roam y -16
+\i (00:08:41) roam x 32
+\i (00:08:41) roam y -32
+\i (00:08:41) roam y -32
+\i (00:08:41) roam x -48
+\i (00:08:41) roam y -80
+\i (00:08:42) roam x -80
+\i (00:08:42) roam y -160
+\i (00:08:42) roam x -32
+\i (00:08:42) roam y -96
+\i (00:08:42) roam x -32
+\i (00:08:42) roam y -80
+\i (00:08:42) roam x -16
+\i (00:08:42) roam y -16
+\i (00:08:42) roam end
+\i (00:08:43) roam start
+\i (00:08:43) roam x 48
+\i (00:08:43) roam y 48
+\i (00:08:43) roam x 112
+\i (00:08:43) roam y 64
+\i (00:08:43) roam x 128
+\i (00:08:43) roam y 64
+\i (00:08:43) roam x 128
+\i (00:08:43) roam y 32
+\i (00:08:43) roam x 112
+\i (00:08:43) roam y 16
+\i (00:08:43) roam x 48
+\i (00:08:43) roam x 32
+\i (00:08:43) roam x 16
+\i (00:08:43) roam x 16
+\i (00:08:43) roam x 16
+\i (00:08:43) roam y 16
+\i (00:08:43) roam x 16
+\i (00:08:43) roam y 64
+\i (00:08:43) roam x 32
+\i (00:08:43) roam y 64
+\i (00:08:43) roam x 48
+\i (00:08:43) roam y 96
+\i (00:08:43) roam x 48
+\i (00:08:43) roam y 80
+\i (00:08:43) roam x 128
+\i (00:08:43) roam y 112
+\i (00:08:43) roam x 144
+\i (00:08:43) roam y 80
+\i (00:08:43) roam x 64
+\i (00:08:43) roam y 16
+\i (00:08:43) roam x 32
+\i (00:08:43) roam x 32
+\i (00:08:43) roam y -32
+\i (00:08:43) roam x 32
+\i (00:08:43) roam y -64
+\i (00:08:43) roam x 16
+\i (00:08:43) roam y -112
+\i (00:08:43) roam x -144
+\i (00:08:43) roam y -192
+\i (00:08:43) roam x -240
+\i (00:08:43) roam y -160
+\i (00:08:43) roam x -128
+\i (00:08:43) roam y -48
+\i (00:08:44) roam x -112
+\i (00:08:44) roam y -16
+\i (00:08:44) roam x -96
+\i (00:08:44) roam x -48
+\i (00:08:44) roam x -16
+\i (00:08:44) roam x -64
+\i (00:08:44) roam x -128
+\i (00:08:44) roam x -240
+\i (00:08:44) roam y 32
+\i (00:08:44) roam x -80
+\i (00:08:44) roam x -32
+\i (00:08:44) roam y 16
+\i (00:08:44) roam x -16
+\i (00:08:44) roam y 16
+\i (00:08:44) roam x 32
+\i (00:08:44) roam x 128
+\i (00:08:44) roam x 176
+\i (00:08:44) roam x 64
+\i (00:08:45) roam y 16
+\i (00:08:45) roam x -16
+\i (00:08:45) roam x -16
+\i (00:08:45) roam y 16
+\i (00:08:45) roam x -16
+\i (00:08:45) roam y 16
+\i (00:08:45) roam x -16
+\i (00:08:46) roam x -16
+\i (00:08:46) roam x -32
+\i (00:08:46) roam x -32
+\i (00:08:46) roam x -32
+\i (00:08:46) roam x -16
+\i (00:08:46) roam x -16
+\i (00:08:51) roam end
+\i (00:09:46) artwork 
+\w (00:09:46) Artwork output type (Raster) does not match the format used in dynamic shapes parameters (Vector).
+\i (00:09:47) setwindow form.film_control
+\i (00:09:47) FORM film_control filmtree  BOTTOM 
+\i (00:09:47) fillin confirm
+\w (00:09:47) For raster artwork formats, artwork accuracy must be at least one greater than the database accuracy, up to the maximum accuracy allowed by the selected output format. Change Format Decimal places.
+\i (00:09:48) fillin confirm
+\i (00:09:50) FORM film_control film_control  
+\i (00:09:53) FORM film_control filmtree 'MULTISEL YES' TOP 
+\i (00:09:53) FORM film_control filmtree  TOP 
+\i (00:10:27) FORM film_control create  
+\t (00:10:27) Starting Create artwork films...
+\t (00:10:28) Plot generated.
+\i (00:25:25) setwindow pcb
+\i (00:25:25) trapsize 26629
+\i (00:25:25) trapsize 30686
+\i (01:03:32) trapsize 26629
+\i (01:03:32) trapsize 30686
+\i (01:17:46) trapsize 26629
+\i (01:17:46) trapsize 30686
+\i (01:59:29) trapsize 26629
+\i (01:59:29) trapsize 30686
+\i (02:01:22) trapsize 26629
+\i (02:01:22) trapsize 30686
+\i (02:31:54) trapsize 26629
+\i (02:31:54) trapsize 30686
+\i (02:40:10) trapsize 26629
+\i (02:40:10) trapsize 30686
+\i (03:08:18) trapsize 26629
+\i (03:08:18) trapsize 30686
+\i (03:08:23) exit 
+\f (03:08:23) Do you want to save the changes you made to jankomid1.brd?
+\i (03:08:24) fillin menu_cancel 
+\i (03:08:25) save_as 
+\i (03:08:32) fillin "jankomid1cherry.brd"
+\i (03:08:33) exit 

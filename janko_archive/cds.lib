@@ -1,0 +1,6 @@
+DEFINE janko_lib    worklib
+DEFINE u_ic    archive_libs/u_ic
+DEFINE r_resistor    archive_libs/r_resistor
+DEFINE c_capacitor    archive_libs/c_capacitor
+DEFINE j_connector2fjumper    archive_libs/j_connector2fjumper
+DEFINE standard    archive_libs/standard

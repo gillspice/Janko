@@ -1,0 +1,65 @@
+Log File: D:\DOCUME~1\214016~1\LOCALS~1\Temp\s220.
+Markers File: D:\DOCUME~1\214016~1\LOCALS~1\Temp\s220.1
+Debug File: D:\DOCUME~1\214016~1\LOCALS~1\Temp\s220.3
+     Debug[0] := TRUE
+Elapsed time since start = (00:00:01)
+
+ **************************************************************
+ *  End processing project file and command line  (00:00:00)  *
+ **************************************************************
+
+EDB info: Null connection to port \7  in instance page1_i1.
+EDB info: Null connection to port \7  in instance page1_i25.
+EDB info: Null connection to port \7  in instance page1_i37.
+EDB info: Null connection to port \7  in instance page1_i49.
+EDB info: Null connection to port \7  in instance page1_i61.
+EDB info: Null connection to port \7  in instance page1_i73.
+EDB info: Null connection to port \7  in instance page1_i85.
+EDB info: Null connection to port \7  in instance page1_i97.
+EDB info: Null connection to port \7  in instance page1_i109.
+EDB info: Null connection to port \7  in instance page1_i121.
+EDB info: Null connection to port \7  in instance page1_i133.
+EDB info: Null connection to port \7  in instance page1_i145.
+EDB info: Null connection to port \7  in instance page1_i157.
+EDB info: Null connection to port \7  in instance page1_i169.
+EDB info: Null connection to port \7  in instance page1_i181.
+
+ *************************
+ *  Loading State Files  *
+ *************************
+
+Elapsed time since start = (00:00:05)
+
+ *****************************************
+ *  End loading State Files  (00:00:00)  *
+ *****************************************
+
+
+ ****************************************
+ *  Starting to assign physical parts.  *
+ ****************************************
+
+Elapsed time since start = (00:00:05)
+
+ ***********************************************
+ *  End assigning physical parts.  (00:00:00)  *
+ ***********************************************
+
+
+ ***************
+ *  Packaging  *
+ ***************
+
+Elapsed time since start = (00:00:05)
+
+ *******************************
+ *  End packaging  (00:00:00)  *
+ *******************************
+
+DDB_INFO: State file for design JANKO successfully written.
+DDB_INFO: Pst files for design JANKO successfully written.
+
+ *********************************
+ *  Packager-XL execution done.  *
+ *********************************
+

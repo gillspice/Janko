@@ -1,0 +1,28 @@
+(------------------------------------------------------------)
+(                                                            )
+(        Batch DRC Update                                    )
+(                                                            )
+(        Drawing          : axis64_06.brd                    )
+(        Software Version : 15.2s138                         )
+(        Date/Time        : Sun Dec 05 19:29:45 2010         )
+(                                                            )
+(------------------------------------------------------------)
+
+
+ ..... batch DRC requested for all elements 
+
+ ========= check shapes                       Sun Dec 05 19:29:45 2010
+ ========= check standalone pins              Sun Dec 05 19:29:45 2010
+ ========= check symbols (pins,lines,text)    Sun Dec 05 19:29:45 2010
+ ========= check nets                         Sun Dec 05 19:29:45 2010
+ ========= check standalone branches          Sun Dec 05 19:29:46 2010
+ ========= check standalone filled rectangles Sun Dec 05 19:29:46 2010
+ ========= check standalone lines             Sun Dec 05 19:29:46 2010
+ ========= check standalone text              Sun Dec 05 19:29:46 2010
+ ========= check standalone rectangles        Sun Dec 05 19:29:46 2010
+
+ ..... Total number of DRC errors  3
+
+ ..... end batch DRC at                       Sun Dec 05 19:29:46 2010
+ *************************************************************************
+

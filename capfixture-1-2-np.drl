@@ -1,0 +1,9 @@
+;LEADER: 12 
+;HEADER: 
+;CODE  : ASCII 
+;FILE  : capfixture-1-2-np.drl for board capfixture.brd ... layers TOP and BOTTOM
+;   Holesize 1. = 89.000000 Tolerance = +0.000000/-0.000000 NON_PLATED MILS Quantity = 1
+%
+G90
+X01000Y01000
+M30

@@ -1,0 +1,12 @@
+(
+ (file_type "hdldirect.dat" "1.0" )
+ (design_name "buttons" )
+ (view "sch_1" )
+ (modtime "verilog.v" 1349054899 315 )
+ (timescale "1ns/1ns" )
+ (cells "J_3_ST" )
+ (global_signals )
+ (single_page 
+  ("" 
+   ("page1_I1" "J_3_ST" )))
+ (multiple_pages ))

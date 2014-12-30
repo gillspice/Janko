@@ -1,0 +1,47 @@
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   1  |
+|------------------------------------------------------------------------------|
+|  D:\MISC\JANKO\worklib\janko\physical\axis64_22.brd                          |
+|                                                    Thu Jan 06 16:19:50 2011  |
+|------------------------------------------------------------------------------|
+| COMPONENT DEFINITION added to board drawing                                  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|    device type                                                               |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+ J_8_ST_TYCO_3_647047_8-3-64704B
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   2  |
+|------------------------------------------------------------------------------|
+|  D:\MISC\JANKO\worklib\janko\physical\axis64_22.brd                          |
+|                                                    Thu Jan 06 16:19:50 2011  |
+|------------------------------------------------------------------------------|
+| COMPONENTS ADDED to board drawing                                            |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|    ref des        |    device type                                           |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+ J2                  J_8_ST_TYCO_3_647047_8-3-64704B 
+ J3                  J_8_ST_TYCO_3_647047_8-3-64704B 
+ J4                  J_8_ST_TYCO_3_647047_8-3-64704B 
+ J5                  J_8_ST_TYCO_3_647047_8-3-64704B 
+ J6                  J_8_ST_TYCO_3_647047_8-3-64704B 
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   3  |
+|------------------------------------------------------------------------------|
+|  D:\MISC\JANKO\worklib\janko\physical\axis64_22.brd                          |
+|                                                    Thu Jan 06 16:19:50 2011  |
+|------------------------------------------------------------------------------|
+| SLOT PROPERTIES added to board drawing                                       |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|   slot_id    |   x   |   y   |   property   |             value              |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+ J2.8                           PRIM_FILE      //BLDG35USERS1/GEAPPS/technology/npielect/GE_Library/Components/j_connector2fjumper/j_8_st/chips/chips.prt
+ J3.8                           PRIM_FILE      //BLDG35USERS1/GEAPPS/technology/npielect/GE_Library/Components/j_connector2fjumper/j_8_st/chips/chips.prt
+ J4.8                           PRIM_FILE      //BLDG35USERS1/GEAPPS/technology/npielect/GE_Library/Components/j_connector2fjumper/j_8_st/chips/chips.prt
+ J5.8                           PRIM_FILE      //BLDG35USERS1/GEAPPS/technology/npielect/GE_Library/Components/j_connector2fjumper/j_8_st/chips/chips.prt
+ J6.8                           PRIM_FILE      //BLDG35USERS1/GEAPPS/technology/npielect/GE_Library/Components/j_connector2fjumper/j_8_st/chips/chips.prt
+|------------------------------------------------------------------------------|
+|   total ECO changes reported  11                                             |
+|------------------------------------------------------------------------------|

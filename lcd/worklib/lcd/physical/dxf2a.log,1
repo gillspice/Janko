@@ -1,0 +1,13 @@
+Reading Layer Conversion File 
+Reading DXF file...
+NOTE: Replacing illegal character * with X in *PAPER_SPACE0.
+done.
+Layer conversion file: D:/Misc/Project/janko/lcdboard2_l.cnv
+DXF file: D:/Misc/Project/janko/lcdboard2.DXF
+BRD file: #Taaaaaa05948.tmp
+Update existing design?: YES
+Use default text?: NO
+DXF units: MILLIMETERS
+Design units: MILS
+Design precision: 3
+dxf2a complete.

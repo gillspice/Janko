@@ -1,0 +1,7 @@
+-- pcdb file, Rev:1.0 written by Allegro Design Entry HDL 16.3-S021 (v16-3-85AK) 12/6/2010 on Sun Sep 30 21:19:10 2012
+#ISCELL
+  standard ge_c_size_page *
+  *
+#CELL
+  j_connector2fjumper j_3_st *
+  page1_i1

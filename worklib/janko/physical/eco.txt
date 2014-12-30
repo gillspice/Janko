@@ -1,0 +1,31 @@
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   1  |
+|------------------------------------------------------------------------------|
+|  D:\MISC\JANKO\worklib\janko\physical\axis64_23.brd                          |
+|                                                    Thu Jan 06 16:25:36 2011  |
+|------------------------------------------------------------------------------|
+| COMPONENTS ADDED to board drawing                                            |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|    ref des        |    device type                                           |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+ D2                  D_SMT_SIGNAL_SOD-80-LL4148,SIGB 
+ D3                  D_SMT_SIGNAL_SOD-80-LL4148,SIGB 
+ D4                  D_SMT_SIGNAL_SOD-80-LL4148,SIGB 
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   2  |
+|------------------------------------------------------------------------------|
+|  D:\MISC\JANKO\worklib\janko\physical\axis64_23.brd                          |
+|                                                    Thu Jan 06 16:25:36 2011  |
+|------------------------------------------------------------------------------|
+| SLOT PROPERTIES added to board drawing                                       |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|   slot_id    |   x   |   y   |   property   |             value              |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+ D2.C                           PRIM_FILE      //BLDG35USERS1/GEAPPS/technology/npielect/GE_Library/Components/d_diode/d_smt_signal/chips/chips.prt
+ D3.C                           PRIM_FILE      //BLDG35USERS1/GEAPPS/technology/npielect/GE_Library/Components/d_diode/d_smt_signal/chips/chips.prt
+ D4.C                           PRIM_FILE      //BLDG35USERS1/GEAPPS/technology/npielect/GE_Library/Components/d_diode/d_smt_signal/chips/chips.prt
+|------------------------------------------------------------------------------|
+|   total ECO changes reported  6                                              |
+|------------------------------------------------------------------------------|

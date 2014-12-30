@@ -1,0 +1,22 @@
+(------------------------------------------------------------)
+(                                                            )
+(        RENAME REFDES                                       )
+(                                                            )
+(        Drawing          : axis64_14.brd                    )
+(        Software Version : 15.2s138                         )
+(        Date/Time        : Tue Jan 04 09:37:06 2011         )
+(                                                            )
+(------------------------------------------------------------)
+
+
+Renaming components on BOTH_SIDES on entire BOARD
+    Extents: (-8000.000,-5000.000) (26000.000,17000.000)
+
+Sequencing the Reference Designators SEQUENTIALLY  
+Row processing direction : to the RIGHT, from the top down. 
+
+Processing TOP of board, D1 has AUTO_RENAME property but is on BOTTOM, component ignored.
+Sequencing the Reference Designators SEQUENTIALLY  
+Row processing direction : to the LEFT, from the top down. 
+
+OLD D1    NEW DB1
